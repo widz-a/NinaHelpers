@@ -52,5 +52,8 @@ public class StringMethods {
 
             // Note: "a" is a string while 'a' is a char!
         }
+
+        //Don't forget lol!
+        scanner.close();
     }
 }
